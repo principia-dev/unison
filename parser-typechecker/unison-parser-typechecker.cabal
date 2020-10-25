@@ -179,7 +179,7 @@ library
     ansi-terminal,
     async,
     base,
-    base16 >= 0.2.1.0,
+    -- base16 >= 0.2.1.0,
     basement,
     bifunctors,
     bytes,
